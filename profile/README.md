@@ -5,10 +5,11 @@
   "소작농 작업실": [
     "봇": [
       {"name":"시덱이", "description":"관리봇", "beta":false},
-      {"name":"꺠미", "description":"챗봇", "beta":true}
+      {"name":"꺠미", "description":"챗봇", "beta":true},
+      {"name":"가비", "description":"경제/미니게임봇", "beta":true}
     ],
     "멤버": [
-      {"name":"Guarlic[구알릭]", "bot":"시덱이"},
+      {"name":"Guarlic[구알릭]", "bot":["시덱이","가비"]},
       {"name":"Msilot[마실롯]", "bot":"꺠미"}
     ]
   ]
