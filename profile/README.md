@@ -9,8 +9,9 @@
       {"name":"가비", "description":"경제/미니게임봇", "beta":true}
     ],
     "멤버": [
-      {"name":"Guarlic[구알릭]", "bot":["시덱이","가비"]},
-      {"name":"Msilot[마실롯]", "bot":"꺠미"}
+      {"name":"Guarlic[구알릭]", "role":"Cheif"},
+      {"name":"Msilot[마실롯]", "role":"Sub Chief"},
+      {"name":"Antonio_Kim[안토]", "role":"Chief Director"}
     ]
   ]
 }
